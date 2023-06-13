@@ -1,2 +1,16 @@
-#!/bin/bash
-
+total 48
+drwxr-xr-x 2 root root 262 Jun 13 16:17 .
+drwxr-xr-x 6 root root 156 Jun 12 17:30 ..
+-rwxr--r-- 1 root root  32 Jun 12 17:38 0-hello_world
+-rwxr--r-- 1 root root  28 Jun 12 18:01 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jun 12 18:27 2-hellofile
+-rwxr--r-- 1 root root  39 Jun 12 18:36 3-twofiles
+-rwxr--r-- 1 root root  29 Jun 12 18:53 4-lastlines
+-rwxr--r-- 1 root root  29 Jun 12 19:09 5-firstlines
+-rwxr--r-- 1 root root  36 Jun 12 19:41 6-third_line
+-rwxr--r-- 1 root root  98 Jun 13 05:02 7-file
+-rwxr--r-- 1 root root  36 Jun 13 16:04 8-cwd_state
+-rwxr--r-- 1 root root  42 Jun 13 16:17 9-duplicate_last_line
+-rwxr--r-- 1 root root  48 Jun 13 16:19 iacta
+-rwxr--r-- 1 root root   0 Jun 13 16:20 ls_cwd_content
+-rw-r--r-- 1 root root 199 Jun 12 19:26 README.md
